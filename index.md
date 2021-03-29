@@ -3,7 +3,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/analytic project.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
