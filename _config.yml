@@ -2,12 +2,12 @@ title: Иван Клещев # your name (or website title) here
 logo: "/images/avatar.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-  В последние годы я прохожу обучение в ВУЗе, сейчас заканчиваю второй курс.
-  <br><br>
+ В последние годы я прохожу обучение в ВУЗе, сейчас заканчиваю второй курс.
+ <br>
  Изучаю специализированные предметы  Математический и статистический анализ, прикладная математика
  Дополнительно изучаю самостоятельно SQL, Python
-  <br><br>
-  Есть рекомендательное письмо из Вуза
+ <br>
+ Есть рекомендательное письмо из Вуза
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
