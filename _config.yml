@@ -1,9 +1,10 @@
 title: Иван Клещев # your name (or website title) here
 logo: "/images/avatar.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  раз
+  В последние годы я прохожу обучение в ВУЗе, сейчас заканчиваю второй курс.
   <br><br>
-  два
+Изучаю специализированные предметы: Математический и статистический анализ, прикладная математика
+Дополнительно изучаю самостоятельно: SQL, Python
   <br><br>
   
 theme: jekyll-theme-minimal
